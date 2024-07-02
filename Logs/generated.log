@@ -1,0 +1,313 @@
+2023-06-09 08:23:11,551  INFO [main] Base:63 - ----- browser selected from properties -----
+2023-06-09 08:23:11,697  INFO [main] Base:74 - ----- browser launched -----
+2023-06-09 08:23:14,445  INFO [main] Base:78 - ----- entered into the url -----
+2023-06-09 08:23:14,446  INFO [main] Base:31 - ----- landed on a Ecommerce-page -----
+2023-06-09 08:23:14,850  INFO [main] Base:41 - ----- logged in with username & pwd -----
+2023-06-09 09:10:06,249  INFO [main] Base:63 - ----- browser selected from properties -----
+2023-06-09 09:10:06,398  INFO [main] Base:74 - ----- browser launched -----
+2023-06-09 09:10:10,196  INFO [main] Base:78 - ----- entered into the url -----
+2023-06-09 09:10:10,197  INFO [main] Base:32 - ----- landed on a Ecommerce-page -----
+2023-06-09 09:10:10,588  INFO [main] Base:42 - ----- logged in with username & pwd -----
+2023-06-09 09:12:29,188  INFO [main] Base:63 - ----- browser selected from properties -----
+2023-06-09 09:12:29,324  INFO [main] Base:74 - ----- browser launched -----
+2023-06-09 09:12:31,892  INFO [main] Base:78 - ----- entered into the url -----
+2023-06-09 09:12:31,893  INFO [main] Base:32 - ----- landed on a Ecommerce-page -----
+2023-06-09 09:12:32,302  INFO [main] Base:42 - ----- logged in with username & pwd -----
+2023-06-09 09:12:50,718  INFO [main] Base:51 - ----- product added to cart -----
+2023-06-09 09:15:00,234  INFO [main] Base:63 - ----- browser selected from properties -----
+2023-06-09 09:15:00,382  INFO [main] Base:74 - ----- browser launched -----
+2023-06-09 09:15:03,408  INFO [main] Base:78 - ----- entered into the url -----
+2023-06-09 09:15:03,409  INFO [main] Base:32 - ----- landed on a Ecommerce-page -----
+2023-06-09 09:15:03,809  INFO [main] Base:42 - ----- logged in with username & pwd -----
+2023-06-09 09:15:22,281  INFO [main] Base:51 - ----- product added to cart -----
+2023-06-09 09:15:23,767  INFO [main] Base:65 - ----- checked the product and submitted order -----
+2023-06-09 09:15:24,100  INFO [main] Base:75 - ----- thank-you confirmation msg displayed -----
+2023-06-28 04:35:31,832  INFO [main] Base:55 - ----- browser selected from properties -----
+2023-06-28 04:35:32,975  INFO [main] Base:55 - ----- browser selected from properties -----
+2023-06-28 04:35:34,216  INFO [main] Base:55 - ----- browser selected from properties -----
+2023-06-28 04:35:35,412  INFO [main] Base:55 - ----- browser selected from properties -----
+2023-06-28 05:09:07,102  INFO [main] Base:56 - ----- browser selected from properties -----
+2023-06-28 05:09:11,028  INFO [main] Base:56 - ----- browser selected from properties -----
+2023-06-28 05:09:14,660  INFO [main] Base:56 - ----- browser selected from properties -----
+2023-06-28 05:09:18,036  INFO [main] Base:56 - ----- browser selected from properties -----
+2023-06-28 05:09:22,163  INFO [main] Base:56 - ----- browser selected from properties -----
+2023-06-28 05:16:34,577  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 05:19:02,003  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 05:20:57,291  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 06:19:31,137  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 06:27:40,152  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 06:38:25,595  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 06:39:47,164  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 07:21:12,666  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 07:21:14,277  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 07:21:15,734  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:13:59,012  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:14:05,077  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:30:24,111  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:30:30,232  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:35:19,000  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:35:24,842  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:37:27,552  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:37:33,836  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:47:05,260  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:47:10,708  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:52:17,204  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:53:35,056  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 09:56:24,820  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 11:32:36,571  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-06-28 11:51:10,817  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-07-02 04:36:42,224  INFO [main] Base:57 - ----- browser selected from properties -----
+2023-07-02 04:46:57,398  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 05:04:11,708  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 05:04:14,287  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 05:04:14,336  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 05:04:14,770  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 05:04:15,183  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 05:04:33,174  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 05:04:33,284  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 05:04:34,138  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 05:04:34,248  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 05:04:34,922  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 05:04:35,005  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 05:04:35,474  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 05:08:57,232  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 05:08:59,500  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 05:08:59,547  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 05:08:59,954  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 05:09:00,368  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 05:09:18,378  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 05:09:18,472  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 05:09:19,049  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 05:09:19,192  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 05:09:19,888  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 05:09:19,963  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 05:09:20,255  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 05:24:27,831  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 05:24:30,213  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 05:24:30,264  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 05:24:30,701  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 05:24:31,235  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 05:24:49,187  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 05:24:49,282  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 05:24:50,028  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 05:24:50,128  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 05:24:50,754  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 05:24:50,820  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 05:24:51,161  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 06:24:40,557  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:24:43,844  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:24:43,891  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:24:44,326  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:24:44,758  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 06:25:02,778  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 06:25:02,899  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 06:25:03,427  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 06:25:03,559  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 06:25:04,227  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 06:25:04,307  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 06:25:05,073  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 06:29:18,979  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:29:24,650  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:29:24,700  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:29:25,114  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:29:25,513  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 06:29:43,496  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 06:29:43,595  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 06:29:45,841  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 06:29:45,983  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 06:29:46,642  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 06:29:46,721  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 06:29:47,152  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 06:34:31,159  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:34:33,523  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:34:33,574  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:34:33,974  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:34:34,353  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 06:34:52,438  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 06:34:52,581  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 06:34:53,770  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 06:34:53,905  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 06:34:54,576  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 06:34:54,650  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 06:34:55,381  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 06:44:44,015  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:44:47,162  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:44:47,210  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:44:47,603  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:44:47,992  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 06:45:06,104  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 06:45:06,222  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 06:45:06,802  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 06:45:06,925  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 06:45:07,563  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 06:45:07,631  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 06:45:08,231  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 06:51:00,049  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:51:02,440  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:51:02,484  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:51:02,893  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:51:03,792  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 06:51:21,874  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 06:51:21,994  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 06:51:23,283  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 06:51:23,424  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 06:51:24,110  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 06:51:24,187  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 06:51:24,803  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 06:55:56,790  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:55:56,790  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:55:59,846  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:55:59,880  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:55:59,887  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:55:59,889  INFO [TestNG-PoolService-1] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:56:00,332  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:56:00,338  INFO [TestNG-PoolService-1] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:56:00,612  INFO [TestNG-PoolService-0] LandingPageSteps:43 - ----- error msg is displayed-----
+2023-07-02 06:56:00,759  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 06:56:18,765  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 06:56:18,882  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 06:56:20,307  INFO [TestNG-PoolService-1] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 06:56:20,442  INFO [TestNG-PoolService-1] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 06:56:21,122  INFO [TestNG-PoolService-1] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 06:56:21,193  INFO [TestNG-PoolService-1] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 06:56:21,852  INFO [TestNG-PoolService-1] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 06:57:32,759  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:57:32,759  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 06:57:35,636  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:57:35,678  INFO [TestNG-PoolService-0] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:57:35,691  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 06:57:35,698  INFO [TestNG-PoolService-1] LandingPageSteps:29 - ----- landed on the ecommerce page-----
+2023-07-02 06:57:36,129  INFO [TestNG-PoolService-0] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:57:36,129  INFO [TestNG-PoolService-1] LandingPageSteps:36 - ----- logged in with username and password-----
+2023-07-02 06:57:36,609  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 06:57:36,631  INFO [TestNG-PoolService-0] LandingPageSteps:43 - ----- error msg is displayed-----
+2023-07-02 06:57:54,773  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 06:57:54,897  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 06:57:56,095  INFO [TestNG-PoolService-1] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 06:57:56,224  INFO [TestNG-PoolService-1] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 06:57:56,907  INFO [TestNG-PoolService-1] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 06:57:56,987  INFO [TestNG-PoolService-1] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 06:57:58,069  INFO [TestNG-PoolService-1] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 07:03:34,937  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:03:34,937  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:03:37,500  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:03:37,543  INFO [TestNG-PoolService-1] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:03:37,722  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:03:37,731  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:03:37,994  INFO [TestNG-PoolService-1] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:03:38,173  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:03:38,405  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 07:03:38,540  INFO [TestNG-PoolService-0] LandingPageSteps:45 - ----- error msg is displayed-----
+2023-07-02 07:03:56,474  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 07:03:56,612  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 07:03:56,867  INFO [TestNG-PoolService-1] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 07:03:56,985  INFO [TestNG-PoolService-1] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 07:03:57,638  INFO [TestNG-PoolService-1] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 07:03:57,702  INFO [TestNG-PoolService-1] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 07:03:57,948  INFO [TestNG-PoolService-1] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 07:07:21,508  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:21,508  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:23,338  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:23,377  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:26,104  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:26,236  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:57,134  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:57,134  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:07:59,966  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:08:00,008  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:08:00,076  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:08:00,081  INFO [TestNG-PoolService-1] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:08:00,471  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:08:00,504  INFO [TestNG-PoolService-1] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:08:00,797  INFO [TestNG-PoolService-0] LandingPageSteps:45 - ----- error msg is displayed-----
+2023-07-02 07:08:01,004  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 07:08:18,968  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 07:08:19,097  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 07:08:19,371  INFO [TestNG-PoolService-1] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 07:08:19,509  INFO [TestNG-PoolService-1] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 07:08:20,181  INFO [TestNG-PoolService-1] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 07:08:20,250  INFO [TestNG-PoolService-1] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 07:08:20,471  INFO [TestNG-PoolService-1] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 07:10:47,150  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:10:47,150  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:10:49,630  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:10:49,674  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:10:49,853  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:10:49,861  INFO [TestNG-PoolService-1] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:10:50,122  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:10:50,284  INFO [TestNG-PoolService-1] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:10:50,394  INFO [TestNG-PoolService-0] LandingPageSteps:45 - ----- error msg is displayed-----
+2023-07-02 07:10:50,683  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 07:11:08,594  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 07:11:08,719  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 07:11:09,571  INFO [TestNG-PoolService-1] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 07:11:09,709  INFO [TestNG-PoolService-1] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 07:11:10,368  INFO [TestNG-PoolService-1] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 07:11:10,456  INFO [TestNG-PoolService-1] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 07:11:10,770  INFO [TestNG-PoolService-1] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 07:21:17,674  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:21:17,674  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:21:20,394  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:21:20,893  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:22:27,892  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:22:27,892  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:22:30,540  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:22:30,594  INFO [TestNG-PoolService-1] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:22:30,758  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:22:30,793  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:22:31,049  INFO [TestNG-PoolService-1] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:22:31,206  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:22:31,501  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 07:22:31,569  INFO [TestNG-PoolService-0] LandingPageSteps:46 - ----- error msg is displayed-----
+2023-07-02 07:22:49,672  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 07:22:49,795  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 07:22:49,967  INFO [TestNG-PoolService-1] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 07:22:50,071  INFO [TestNG-PoolService-1] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 07:22:50,723  INFO [TestNG-PoolService-1] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 07:22:50,801  INFO [TestNG-PoolService-1] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 07:22:51,225  INFO [TestNG-PoolService-1] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2023-07-02 07:25:21,119  INFO [TestNG-PoolService-1] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:25:21,119  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2023-07-02 07:25:23,699  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:25:23,752  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:25:24,017  INFO [TestNG-PoolService-1] Base:61 - ----- landed in the rwquired url -----
+2023-07-02 07:25:24,039  INFO [TestNG-PoolService-1] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2023-07-02 07:25:24,189  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:25:24,451  INFO [TestNG-PoolService-1] LandingPageSteps:37 - ----- logged in with username and password-----
+2023-07-02 07:25:24,833  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2023-07-02 07:25:42,758  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:32 - -----added to cart-----
+2023-07-02 07:25:42,879  INFO [TestNG-PoolService-1] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2023-07-02 07:25:43,519  INFO [TestNG-PoolService-1] CartPageSteps:34 - ----- verfied product from cartpage -----
+2023-07-02 07:25:43,666  INFO [TestNG-PoolService-1] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2023-07-02 07:25:44,337  INFO [TestNG-PoolService-1] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2023-07-02 07:25:44,402  INFO [TestNG-PoolService-1] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2023-07-02 07:25:44,760  INFO [TestNG-PoolService-1] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2024-07-02 16:47:49,169  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2024-07-02 16:47:50,031  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2024-07-02 16:47:50,066  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2024-07-02 16:47:50,277  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2024-07-02 16:50:45,866  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2024-07-02 16:50:47,562  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2024-07-02 16:50:47,601  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2024-07-02 16:50:47,817  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2024-07-02 17:03:53,154  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2024-07-02 17:03:54,849  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2024-07-02 17:03:54,884  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2024-07-02 17:03:55,105  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2024-07-02 17:03:55,372  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:30 - ----- product is filtered from list-----
+2024-07-02 17:04:13,179  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:32 - -----added to cart-----
+2024-07-02 17:04:13,238  INFO [TestNG-PoolService-0] ProductCataloguePageSteps:34 - ----- reached cartpage from product page-----
+2024-07-02 17:04:13,322  INFO [TestNG-PoolService-0] CartPageSteps:34 - ----- verfied product from cartpage -----
+2024-07-02 17:04:13,378  INFO [TestNG-PoolService-0] CartPageSteps:37 - ----- moved to checkout from cartpage -----
+2024-07-02 17:04:13,925  INFO [TestNG-PoolService-0] CheckOutPageSteps:27 - ----- moved to checkout from cartpage -----
+2024-07-02 17:04:13,962  INFO [TestNG-PoolService-0] CheckOutPageSteps:30 - ----- submitted order from checkout -----
+2024-07-02 17:04:14,056  INFO [TestNG-PoolService-0] ConfirmationPageSteps:27 - ----- verifing confirmation message-----
+2024-07-02 17:06:39,650  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2024-07-02 17:06:40,879  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2024-07-02 17:06:40,913  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2024-07-02 17:06:41,119  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2024-07-02 17:15:13,349  INFO [TestNG-PoolService-0] Base:57 - ----- browser selected from properties -----
+2024-07-02 17:15:14,986  INFO [TestNG-PoolService-0] Base:61 - ----- landed in the rwquired url -----
+2024-07-02 17:15:15,021  INFO [TestNG-PoolService-0] LandingPageSteps:30 - ----- landed on the ecommerce page-----
+2024-07-02 17:15:15,235  INFO [TestNG-PoolService-0] LandingPageSteps:37 - ----- logged in with username and password-----
+2024-07-02 17:15:15,453  INFO [TestNG-PoolService-0] LandingPageSteps:47 - ----- error msg is displayed-----
